@@ -1,3 +1,4 @@
+/*
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
@@ -52,3 +53,4 @@ const server = http.createServer((req, res) => {
 server.listen(3000, 'localhost', (error) => {
     error ? console.log(error) : console.log(`listening port ${PORT}`);
 })
+*/
